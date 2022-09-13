@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html,body{
+    display: grid;
+    height: 100%;
+    place-items: center;
+    text-align: center;
+    background: cornflowerblue;
+}
+
+.container {
+    width: 400px;
+    height: 500px;
+    background-color: white;
+}
+
+.qrImg {
+    width: 300px;
+    height: auto;
+}
